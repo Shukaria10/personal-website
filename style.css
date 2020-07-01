@@ -19,16 +19,17 @@ h2{
    
 }
 .half-width img{
-    width:80%;
+    width:100%;
 }
 .banner{
     margin:0px 60px 0px 60px;
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
-    background-size: 60%;
+    background-size: 100%;
 }
 section{
-    height: 300px;
+    height: 400px;
+   
     padding-bottom: 150px;
 }
 .link-button{
@@ -43,9 +44,74 @@ section{
     margin:0px 60px 0px 60px;
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
-    background-size: 60%;
+    background-size: 100%;
 
 }
 p{
     text-align: justify;
+}
+.footer-head{
+    text-align: center;
+    color: black;
+}
+.footer-images{
+    width: 20%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: left;
+    background-position: center;
+    margin-left: 10%;
+  
+  }
+
+
+.experience-area{
+    margin:0px 60px 0px 60px ;
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.half-width2 img{
+    width:100%;
+}
+.client-says{
+    text-align: center;
+    color: black;
+}
+h5{
+    color: lightslategray;
+
+}
+.center-text{
+    text-align: center;
+}
+.end{
+background-image: url("images/footer-bg.png");
+margin:0px 60px 0px 60px;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.pink-box{
+
+  width: 400px;
+  height: 90px;
+  background-color: palevioletred;
+  background-position: center;
+  border-radius: 5px;
+  margin-left: 35%;
+}
+.p2{
+    text-align: center;
+    font-size: 15px;
+    color: lightgrey;
+    margin-top: 200px;
+
+}
+.pink-box-text{
+    text-align: center;
+    color: white;
+}
+.pink-box-text-h3{
+    font-size: 15px;
 }
