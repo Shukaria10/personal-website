@@ -22,7 +22,7 @@ h2{
     width:100%;
 }
 .banner{
-    margin:0px 60px 0px 60px;
+   
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -41,7 +41,7 @@ section{
     font-weight: bold;
 }
 .biography{
-    margin:0px 60px 0px 60px;
+   
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -68,7 +68,7 @@ p{
 
 
 .experience-area{
-    margin:0px 60px 0px 60px ;
+   
     background-image: url("images/latest-work-bg.png");
     background-size: 100%;
     background-repeat: no-repeat;
@@ -89,7 +89,6 @@ h5{
 }
 .end{
 background-image: url("images/footer-bg.png");
-margin:0px 60px 0px 60px;
 background-repeat: no-repeat;
 background-size: 100%;
 }
